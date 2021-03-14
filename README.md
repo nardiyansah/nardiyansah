@@ -27,4 +27,9 @@
 
 ### Latest Blog Posts
 <!-- YOUTUBE:START -->
+- [0. Tentang hari, bulan, minggu, musim dan tahun.](https://www.youtube.com/watch?v=PRfQaaRlXhw)
+- [6. Implementasi algoritma Greedy best-first search](https://www.youtube.com/watch?v=FFnWdrYGtj4)
+- [5. Algoritma A*](https://www.youtube.com/watch?v=SKjeAzgsvbI)
+- [4. Algoritma Greedy best-first search part 2](https://www.youtube.com/watch?v=1Ny1cYvERAU)
+- [4. Algoritma Greedy best-first search part 1](https://www.youtube.com/watch?v=iuYaoahqFJg)
 <!-- YOUTUBE:END -->
