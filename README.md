@@ -16,7 +16,7 @@
 
 ---
 
-### Latest Blog Posts
+### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Menghapus file otomatis menggunakan batch file](https://medium.com/@nardiyansah/menghapus-file-otomatis-menggunakan-batch-file-21d80e4626d6?source=rss-b541378ed797------2)
 - [Berkenalan dengan version control](https://medium.com/@nardiyansah/berkenalan-dengan-version-control-4f3d3d995cf4?source=rss-b541378ed797------2)
@@ -25,7 +25,7 @@
 
 ---
 
-### Latest Blog Posts
+### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [0. Tentang hari, bulan, minggu, musim dan tahun.](https://www.youtube.com/watch?v=PRfQaaRlXhw)
 - [6. Implementasi algoritma Greedy best-first search](https://www.youtube.com/watch?v=FFnWdrYGtj4)
