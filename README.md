@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 👋 Hi, I’m Nardiyansah
 - 👀 I’m interested in programmin mostly in artificial intelligence and software development.
 - 🌱 I’m currently learning in Institut Teknologi Sumatera
