@@ -27,9 +27,9 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Solve '2D Array   DS' problem](https://www.youtube.com/watch?v=sr4GMhaA-Q8)
 - [Mock interview : tell me about your weakness (ver. bahasa indonesia)](https://www.youtube.com/watch?v=QGWLdVOLWo4)
 - [Mock Interview : tell me about yourself (ver. bahasa indonesia)](https://www.youtube.com/watch?v=TFFe2FDTP-A)
 - [belajar malam : App Development with React Native (Harvard archive edx) lecture 1 javascript, ES6 .](https://www.youtube.com/watch?v=o7qynSAiPnI)
 - [0. Tentang hari, bulan, minggu, musim dan tahun.](https://www.youtube.com/watch?v=PRfQaaRlXhw)
-- [6. Implementasi algoritma Greedy best-first search](https://www.youtube.com/watch?v=FFnWdrYGtj4)
 <!-- YOUTUBE:END -->
