@@ -27,9 +27,9 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [menyelesaikan soal "Balanced Brackets" : Hackerrank](https://www.youtube.com/watch?v=cl8vBc18lP4)
 - [Hackerrank : Hash Tables Ransom Note](https://www.youtube.com/watch?v=4HoN3HCrnaw)
 - [Solve '2D Array   DS' problem](https://www.youtube.com/watch?v=sr4GMhaA-Q8)
 - [0. Tentang hari, bulan, minggu, musim dan tahun.](https://www.youtube.com/watch?v=PRfQaaRlXhw)
 - [6. Implementasi algoritma Greedy best-first search](https://www.youtube.com/watch?v=FFnWdrYGtj4)
-- [5. Algoritma A*](https://www.youtube.com/watch?v=SKjeAzgsvbI)
 <!-- YOUTUBE:END -->
